@@ -17,7 +17,7 @@ function App() {
     setWorkout(newWorkout)
     setTimeout(() => {
       window.location.href = '#workout'
-    }, 500);
+    }, 100);
   }
   return (
     <main className='min-h-screen flex flex-col bg-gradient-to-r from-slate-800 to-slate-950 text-white text-sm sm:text-base'>
