@@ -51,7 +51,7 @@ Check out the project on GitHub: [React Fitness App](https://github.com/arbaz93/
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/arbaz93/React-Fitness-App/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/arbaz93/React-Fitness-App/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
