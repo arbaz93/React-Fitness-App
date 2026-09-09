@@ -1,6 +1,6 @@
 # React Fitness App  
 
-![React Fitness App Screenshot](./portfolio-5.png)  
+![React Fitness App Screenshot](./portfolio-5.jpg)  
 
 ## Overview  
 
