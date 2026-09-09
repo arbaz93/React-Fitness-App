@@ -1,6 +1,6 @@
 # React Fitness App  
 
-![React Fitness App Screenshot](https://github.com/arbaz93/React-Fitness-App/blob/main/portfolio-5.png)  
+![React Fitness App Screenshot](./portfolio-5.png)  
 
 ## Overview  
 
